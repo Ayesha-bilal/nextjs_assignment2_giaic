@@ -1,0 +1,7 @@
+.hero {
+    background-color: rgb(120, 130, 148);
+    color: black;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+}
